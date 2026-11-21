@@ -1,0 +1,6 @@
+{
+  "name": "أطلس لينكس — موسوعة التوزيعات الشاملة",
+  "description": "موسوعة عربية متكاملة تضم 300 توزيعة لينكس مع الشرح التفصيلي والصور وروابط التحميل والتثبيت ودليل نظام لينكس وأوامر الطرفية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
